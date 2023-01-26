@@ -1484,27 +1484,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.26-10.49.16:666][191]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
 [2023.01.26-10.49.20:980][191]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
 [2023.01.26-10.49.24:849][191]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
-[2023.01.26-10.49.26:654][191]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
-[2023.01.26-10.49.28:565][191]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049889s
-[2023.01.26-10.49.31:492][191]LogSkeletalMesh: Built Skeletal Mesh [14.84s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
-[2023.01.26-10.49.31:508][191]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.003857s (2.992668s overbudget)
-[2023.01.26-10.49.31:573][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
-[2023.01.26-10.49.31:574][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
-[2023.01.26-10.49.31:637][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
-[2023.01.26-10.49.31:637][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
-[2023.01.26-10.49.31:650][193]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
-[2023.01.26-10.49.31:650][193]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
-[2023.01.26-10.49.31:668][194]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
-[2023.01.26-10.49.31:668][194]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
-[2023.01.26-10.49.31:680][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
-[2023.01.26-10.49.31:681][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
-[2023.01.26-10.49.31:693][196]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
-[2023.01.26-10.49.31:693][196]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
-[2023.01.26-10.49.33:000][335]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
-[2023.01.26-10.49.33:000][335]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
-[2023.01.26-10.49.33:000][335]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
-[2023.01.26-10.49.33:007][335]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
-[2023.01.26-10.49.34:122][442]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
-[2023.01.26-10.49.34:122][442]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
-[2023.01.26-10.49.34:125][442]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_74C63B855D4E916001_1532055056
-[2023.01.26-10.49.34:131][442]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_74C63B855D4E916001_1532055056
